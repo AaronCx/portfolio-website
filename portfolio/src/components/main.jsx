@@ -24,7 +24,7 @@ const Main = () => {
           console.log('Sequence completed'); // Place optional callbacks anywhere in the array
         }
       ]}
-      wrapper="span"
+      wrapper="div"
       cursor={true}
       repeat={Infinity}
       style={{ fontSize: '1em', paddingLeft: '5px' }}
