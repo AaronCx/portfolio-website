@@ -14,7 +14,7 @@ const Main = () => {
           <h2 className='flex sm:text-5xl text-4xl pt-4 text-gray-800'>
         <TypeAnimation
       sequence={[
-        'My Name Is Aaron', // Types 'One'
+        'My Name Is Aaron Character', // Types 'One'
         1000, // Waits 1s
         'Im a Full Stack Developer', // Deletes 'One' and types 'Two'
         2000, // Waits 2s
